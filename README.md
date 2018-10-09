@@ -4,13 +4,14 @@ I kept finding myself going back to that same email and sending it to new develo
 
 Many of these resources are intended as quick reads, viewing and solid foundational information for more senior devs. 
 
-Many resources are free, however, Pluralsight and O'Reilly Online accounts are heavily referenced, and reccomended. These paid resources are well worth their cost. 
+Many resources are free, however, Pluralsight and O'Reilly Online accounts are heavily referenced, and recommended. These paid resources are well worth their cost. 
 
 
 # Git 
 
 * https://agripongit.vincenttunru.com/ - A visual explaination of the git tree and process
 * [Git or Ages 4 and Up (Video)](https://www.youtube.com/watch?v=1ffBJ4sVUb4) - solid explaination about the tree, HEAD, branching and master. 
+* [Learn Git Branching](https://learngitbranching.js.org/) - Visual explaination of the branching process
 
 # C#
 ## Language
