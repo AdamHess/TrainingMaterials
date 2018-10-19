@@ -4,6 +4,7 @@
 * [Glass Mapper Tutorials](https://web.archive.org/web/20160327074206/http://glass.lu/Mapper/Sc/Tutorials) - The folks who make Glass Mapper took down the tutorial so more users will use their paid training. The [Glass Mapper](https://github.com/mikeedwards83/Glass.Mapper) repo isn't much help either. 
 * [Sitecore Slack Join Form](https://docs.google.com/forms/d/1bAVDgP5-FhFh8ohPchHtifq-rz7EBkuPojAzdEofJyo/viewform?edit_requested=true)
 * [Working with the Search Api](https://www.youtube.com/watch?v=4LDJC3M36gA) - clear example of walking through the search API and how to use it with Glass Mapper. 
+* [Speed Up Sitecore Load Time (IN DEVELOPMENT MODE ONLY)](http://sitecore.skowronski.it/sitecore/speed-up-sitecore-instance/)
 
 # Sitecore's Resource Links
 
