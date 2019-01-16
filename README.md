@@ -21,6 +21,7 @@ Many resources are free, however, Pluralsight and O'Reilly Online accounts are h
 * [C# 7.0 in a Nutshell (O'Reilly Book)](https://www.safaribooksonline.com/library/view/c-70-in/9781491987643/)  
 * [Microsoft Style Guide and Coding Convention](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 * [C# Fundamentals with Visual Studio 2015 (Pluralsight)](https://app.pluralsight.com/library/courses/c-sharp-fundamentals-with-visual-studio-2015/table-of-contents)
+* [.Net Core Guide](https://docs.microsoft.com/en-us/dotnet/core/) - MS official docs on .NET Core
 
 ## Technologies
 
