@@ -12,6 +12,7 @@ Many resources are free, however, Pluralsight and O'Reilly Online accounts are h
 * https://agripongit.vincenttunru.com/ - A visual explaination of the git tree and process
 * [Git or Ages 4 and Up (Video)](https://www.youtube.com/watch?v=1ffBJ4sVUb4) - solid explaination about the tree, HEAD, branching and master. 
 * [Learn Git Branching](https://learngitbranching.js.org/) - Visual explaination of the branching process
+* [How To Teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html) - useful for senior developers trying to describe or teach git to a junior dev.
 
 # C#
 ## Language
