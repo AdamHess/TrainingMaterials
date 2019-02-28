@@ -75,3 +75,9 @@ Older tutorials are just fine, focus on the conventions, some advancements and c
 
 * [REST-ful web services](http://www.tutorialspoint.com/restful/restful_introduction.htm)
 * [Overview of Https](https://www.instantssl.com/https-tutorials/what-is-https.html)
+
+# Productivity Tools and Tips
+
+* [AutoHotkey](https://www.autohotkey.com/) - create custom macros 
+* [ClipX](https://bluemars.org/clipx/) - Adds history tracking to your clipboard
+* [SlickRun](https://bayden.com/slickrun/) - use short word/phrases to execute commands
