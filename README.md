@@ -57,6 +57,10 @@ Older tutorials are just fine, focus on the conventions, some advancements and c
 * [CSS & CSS3 (O'Reilly)](https://www.safaribooksonline.com/library/view/css-css3/9780071850216/)
 * [Introduction to CSS (Pluralsight)](https://app.pluralsight.com/library/courses/css-intro/table-of-contents)
 
+### Flexbox
+
+* [Flexbox Reference Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - use it to this day
+
 # Javascript
 
 * [JavaScript Video Tutorial - Derek Banas (Video)](https://www.youtube.com/watch?v=_cLvpJY2deo)
