@@ -80,6 +80,7 @@ Older tutorials are just fine, focus on the conventions, some advancements and c
 
 * [REST-ful web services](http://www.tutorialspoint.com/restful/restful_introduction.htm)
 * [Overview of Https](https://www.instantssl.com/https-tutorials/what-is-https.html)
+* [Clean Code Practices](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) - Uncle Bob Martin a programming educator about good coding practices. 
 
 # Productivity Tools and Tips
 
