@@ -6,6 +6,8 @@ Many of these resources are intended as quick reads, viewing and solid foundatio
 
 Many resources are free, however, Pluralsight and O'Reilly Online accounts are heavily referenced, and recommended. These paid resources are well worth their cost. 
 
+As of 2023, you can get an O'Reilly and Pluralsight subscription with an ACM membership for about $175/yr 
+
 
 # Git 
 
