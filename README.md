@@ -15,7 +15,8 @@ As of 2023, you can get an O'Reilly and Pluralsight subscription with an ACM mem
 * [Git or Ages 4 and Up (Video)](https://www.youtube.com/watch?v=1ffBJ4sVUb4) - solid explaination about the tree, HEAD, branching and master. 
 * [Learn Git Branching](https://learngitbranching.js.org/) - Visual explaination of the branching process
 * [How To Teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html) - useful for senior developers trying to describe or teach git to a junior dev.
-
+* [So You think you know git](https://www.youtube.com/watch?v=aolI_Rz0ZqY) - 2024 talk on latest and lesser used features of git
+* 
 # C#
 ## Language
 
