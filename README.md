@@ -16,7 +16,8 @@ As of 2023, you can get an O'Reilly and Pluralsight subscription with an ACM mem
 * [Learn Git Branching](https://learngitbranching.js.org/) - Visual explaination of the branching process
 * [How To Teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html) - useful for senior developers trying to describe or teach git to a junior dev.
 * [So You think you know git](https://www.youtube.com/watch?v=aolI_Rz0ZqY) - 2024 talk on latest and lesser used features of git
-* 
+* [Git Immersion](https://gitimmersion.com/index.html) - A series of lessons to walk you though understanding and using git 
+
 # C#
 ## Language
 
